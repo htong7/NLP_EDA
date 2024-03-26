@@ -18,8 +18,6 @@ The main steps executed in the notebook are as follows:
 
 By the end of the notebook, we have a clean and normalized text dataset, with insights into the most significant words in the corpus. This processed data can be used as input for various NLP tasks such as topic modeling, text classification, sentiment analysis, etc.
 
-!/Users/felixtong/Desktop/output.png
-
 ## Requirements
 
 The notebook requires Python and the following Python libraries installed:
